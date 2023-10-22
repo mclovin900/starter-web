@@ -20,4 +20,4 @@ Please fork this repository and ten issue pull requests for review.
 
 ### Copyright
 
-2014 Git.Training Inc.
+2014 Git.Training Inc. All rights reserved.
